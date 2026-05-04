@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/ardadagdeviren/code/proje_oyun/game'
+relocations:     []
+...
